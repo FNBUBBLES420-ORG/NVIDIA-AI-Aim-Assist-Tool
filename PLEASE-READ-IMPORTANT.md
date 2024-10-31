@@ -2,8 +2,9 @@
 
 ## English  
 **Instant Ban Warning**  
-- 
+- none
 
+---
 We kindly ask you to provide feedback regarding your experience with the **NVIDIA AI Aim Assist Tool**. Please consider the following questions:
 
 1. In what specific ways has the **NVIDIA AI Aim Assist Tool** supported you in managing your disability, particularly in enhancing your ability to engage in gaming activities?
