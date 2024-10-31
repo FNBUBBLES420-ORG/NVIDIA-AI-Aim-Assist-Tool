@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KernFerm/NVIDIA-AI-Aim-Assist-Tool/blob/main/main_tensorrt_script/dist/imgs/banner.png?raw=true" alt="Banner" width="300"/>
+  <img src="https://github.com/KernFerm/NVIDIA-AI-Aim-Assist-Tool/blob/main/main_tensorrt_script/dist/imgs/banner.png?raw=true" alt="Banner" width="400"/>
 </p>
 
 # 🚨 READ THE ENTIRE README.MD & ALL DOCUMENTS EVERYTHING CAREFULLY !!! 🚨
