@@ -1,0 +1,23 @@
+torch
+numpy
+opencv-python
+pandas
+cupy-cuda11x  # Specify your CUDA version, e.g., cupy-cuda11x for CUDA 11.x
+comtypes
+psutil
+colorama
+pyautogui
+PyGetWindow
+pywin32
+pyyaml
+tqdm
+matplotlib
+seaborn
+requests
+dill
+onnx
+onnxruntime-gpu  # NVIDIA GPU support
+ultralytics  # YOLO model, may need GPU support
+bettercam
+dxcam
+pyserial  # Arduino support
