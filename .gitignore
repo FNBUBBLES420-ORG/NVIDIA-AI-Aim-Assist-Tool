@@ -1,0 +1,65 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore virtual environment
+.venv/
+env/
+ENV/
+venv/
+.venv/
+
+# Ignore model and data files
+models/
+*.engine
+*.onnx
+*.pt
+
+# Ignore images in the imgs folder (add exceptions if needed)
+imgs/*.png
+imgs/*.jpg
+imgs/*.jpeg
+
+# Ignore config files with sensitive data (add only if config.py contains sensitive info)
+config.py
+
+# Ignore system and editor-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vscode/*
+
+# Ignore log and temporary files
+*.log
+*.temp
+*.tmp
+*.bak
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore batch files and script outputs
+*.bat
+*.sh
+
+# Ignore the README images, if they are non-essential
+pic.png
+banner.png
+
+# Ignore Python package dependencies (rely on requirements.txt)
+install_pytorch.bat
+update_ultralytics.bat
+
+# Ignore unnecessary Ultraytics cache or temp data
+ultralytics1/cache/
+ultralytics1/tmp/
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all folders in the root directory
+*/
