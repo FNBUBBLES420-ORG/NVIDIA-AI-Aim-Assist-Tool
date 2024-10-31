@@ -25,7 +25,7 @@ An AI-driven aim assist application tailored for NVIDIA GPU users, providing enh
 ## Discord
 - If you have issues join the discord head to channel `nvidia-ai-assist-tool`
 - Ping `Bubbles` or `Urugly`
-[Invite Link](https://discord.gg/6KZGbJ8MJv)
+[Invite Link](https://www.discord.fnbubbles420.org/invite)
 
 ## Disclaimer
 
