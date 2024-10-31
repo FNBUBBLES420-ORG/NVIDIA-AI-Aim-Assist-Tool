@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/KernFerm/NVIDIA-AI-Aim-Assist-Tool/blob/main/main_tensorrt_script/dist/imgs/banner.png?raw=true" alt="Banner" width="600"/>
+</p>
+
+# 🚨 READ THE ENTIRE README.MD & ALL DOCUMENTS EVERYTHING CAREFULLY !!! 🚨
+
 # NVIDIA AI Aim Assist Tool
 
 An AI-driven aim assist application tailored for NVIDIA GPU users, providing enhanced responsiveness and customization for an optimized gameplay experience. This tool utilizes YOLO, ENGINE, and Arduino integration to support gamers, particularly those with physical challenges, for a seamless and accurate aiming capability.
