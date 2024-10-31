@@ -75,6 +75,7 @@ NVIDIA-AI-Aim-Assist-Tool/
 │       └── readme.md                 # README for dist folder specifics
 ├── CODE_OF_CONDUCT.md                # Code of Conduct for community guidelines
 ├── LICENSE.md                        # License file for the project
+├── PLEASE-READ-IMPORTANT.md          # Important Information Regarding Your Disability When Using This Tool
 ├── SECURITY.md                       # Security policy for reporting vulnerabilities
 ├── basicv5s.pt                       # Core PyTorch model file
 ├── get_device.py                     # Script to check device compatibility and GPU setup
