@@ -42,6 +42,53 @@ Our nonprofit, **fnbubbles420.org**, is dedicated to creating a **supportive, in
 > By using this tool, you acknowledge and accept full responsibility for any actions taken with it and understand the potential risks involved.
 
 
+# LICENSE
+
+- ## ***This project is proprietary and all rights are reserved by the author.***
+- ## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+- ## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+
+
+---
+
+
+```
+NVIDIA-AI-Aim-Assist-Tool/
+├── .github/                          # GitHub-specific files
+│   └── dependabot.yml                # Dependabot configuration for dependency updates
+├── Environmental_Setup/              # Environmental setup and configuration files
+│   └── ...                           # Files related to environment setup (details not provided)
+├── main_tensorrt_script/             # Main script directory for TensorRT
+│   └── dist/                         # Distribution folder with obfuscated runtime and models
+│       ├── imgs/                     # Image assets
+│       ├── models/                   # Model files
+│       ├── pyarmor_runtime_000000    # PyArmor runtime obfuscation file
+│       ├── pyarmor_runtime_000001    # PyArmor runtime obfuscation file
+│       ├── ultralytics1/utils/       # Ultralytics utility files
+│       ├── utils/                    # Additional utility scripts
+│       ├── New Text Document.txt     # Placeholder text document
+│       ├── config.py                 # Configuration file with customizable settings
+│       ├── export-command.txt        # Export command for model or setup
+│       ├── export.py                 # Script for exporting models
+│       ├── gameSelection.py          # Script for selecting and activating the game window
+│       ├── main_tensorrt.py          # Main script using TensorRT for AI aim assist
+│       └── readme.md                 # README for dist folder specifics
+├── CODE_OF_CONDUCT.md                # Code of Conduct for community guidelines
+├── LICENSE.md                        # License file for the project
+├── SECURITY.md                       # Security policy for reporting vulnerabilities
+├── basicv5s.pt                       # Core PyTorch model file
+├── get_device.py                     # Script to check device compatibility and GPU setup
+├── .gitattributes                    # Git attributes for handling line endings, etc.
+├── .gitignore                        # Git ignore file to exclude unnecessary files from the repo
+├── install_pytorch.bat               # Batch file to install PyTorch
+├── readme.md                         # Main README with project overview and setup instructions
+├── requirements.txt                  # Python dependencies for the project
+├── run.bat                           # Batch script to execute the project
+├── update_ultralytics.bat            # Batch script to update the Ultralytics library
+└── v5.pt                             # Additional model file for TensorRT
+```
+
+
 ### Installation
 1. **Install Dependencies**:
 ```
@@ -461,9 +508,5 @@ If you encounter any issues during installation, refer to the official troublesh
 </div>
 
 ## Now you're ready to start developing C and C++ applications in Visual Studio 2022! 🎉
-
-# LICENSE
-
-- ## ***This project is proprietary and all rights are reserved by the author.***
-- ## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
-- ## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
+---
+---
