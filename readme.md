@@ -253,7 +253,7 @@ This should properly set up CUDA 11.8 to be used for your projects via `cmd.exe`
 
 ### Environmental Variable Setup
 
-![pic](https://github.com/KernFerm/NVIDIA-AI-Aim-Assist-Tool/blob/main/Environmental_Setup/pic.png)
+![pic](https://github.com/FNBUBBLES420-ORG/NVIDIA-AI-Aim-Assist-Tool/blob/main/Environmental_Setup/pic.png)
 
 
 ```
