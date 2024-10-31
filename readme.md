@@ -20,6 +20,11 @@ An AI-driven aim assist application tailored for NVIDIA GPU users, providing enh
 - **Hardware**: 
   - NVIDIA GPU for maximum efficiency.
   - Optional: Arduino device (e.g., UNO) if `arduino_support` is enabled.
+  - **Python 3.11.6**
+ 
+## Discord
+- if you have issues join the discord head to channel `nvidia-ai-assist-tool`
+[Invite Link](https://discord.gg/6KZGbJ8MJv)
 
 ### Installation
 1. **Install Dependencies**:
