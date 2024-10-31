@@ -21,3 +21,4 @@ ultralytics  # YOLO model, may need GPU support
 bettercam
 dxcam
 pyserial  # Arduino support
+pyarmor
