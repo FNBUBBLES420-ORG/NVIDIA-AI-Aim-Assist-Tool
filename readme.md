@@ -1,9 +1,9 @@
 # NVIDIA AI Aim Assist Tool
 
-An AI-driven aim assist application tailored for NVIDIA GPU users, providing enhanced responsiveness and customization for an optimized gameplay experience. This tool utilizes YOLO, ONNX, and Arduino integration to support gamers, particularly those with physical challenges, for a seamless and accurate aiming capability.
+An AI-driven aim assist application tailored for NVIDIA GPU users, providing enhanced responsiveness and customization for an optimized gameplay experience. This tool utilizes YOLO, ENGINE, and Arduino integration to support gamers, particularly those with physical challenges, for a seamless and accurate aiming capability.
 
 ## Features
-- **Real-Time Detection**: Utilizes ONNX models with non-max suppression for rapid, reliable object detection.
+- **Real-Time Detection**: Utilizes ENGINE models with non-max suppression for rapid, reliable object detection.
 - **Arduino Integration**: Offers Arduino support for additional control options.
 - **Flexible Configuration**: Customizable settings for targeting preferences, visuals, and integration options.
 - **Resource Management**: Employs garbage collection to optimize memory and system performance.
