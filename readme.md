@@ -27,6 +27,21 @@ An AI-driven aim assist application tailored for NVIDIA GPU users, providing enh
 - Ping `Bubbles` or `Urugly`
 [Invite Link](https://discord.gg/6KZGbJ8MJv)
 
+## Disclaimer
+
+> **This tool and server are provided for educational purposes only and are not intended to promote cheating or unethical behavior in any way.**  
+> We are an **educational nonprofit organization** dedicated to assisting individuals with disabilities, PTSD, mental health challenges, and physical limitations. Our community's mission is to support disabled gamers, veterans, streamers, and developers, fostering an environment where everyone can participate fully and equally in gaming and technology.
+
+**Our Mission:**  
+Our nonprofit, **fnbubbles420.org**, is dedicated to creating a **supportive, inclusive, and empowering community** for those facing physical and cognitive challenges. We advocate for **accessibility and inclusivity** in the gaming industry, combat stigmas surrounding disabilities, and promote mental wellness. Through proactive involvement, educational resources, and a dedicated support network, we aim to make the world a better place by enhancing the lives of individuals in need.
+
+---
+
+### Important Notice
+> **If you choose to use this tool within any online game, please be aware that doing so may violate the terms of service of those games. If you are banned or penalized as a result of using this tool, we are not responsible.**  
+> By using this tool, you acknowledge and accept full responsibility for any actions taken with it and understand the potential risks involved.
+
+
 ### Installation
 1. **Install Dependencies**:
 ```
