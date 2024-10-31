@@ -92,10 +92,6 @@ The application includes a visualization mode (`visuals`=True in config) that di
 
 ## DO **EVERY STEP AND FOLLOW EVERY STEP** OF THE NVIDIA INSTALLATION GUIDE OR IT WON'T WORK PROPERLY
 
-- **FOR `AMD USERS` MAKE SURE YOU `FOLLOW` THE GUIDE FOR `AMD GPUS`**
-
-## For `AMD GPU SUPPORT` [click here](https://github.com/KernFerm/gVSUea52m/blob/main/main_amd_scripts/dist/readme.md)
-
 ---
 
 ### 1. **Download the NVIDIA CUDA Toolkit 11.8**
